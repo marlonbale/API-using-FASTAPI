@@ -31,7 +31,7 @@ The API allows users to add new customers to the system by sending a POST reques
 
 ## 4.Using Postman:
 
-[link to API project postman_collection.json](API project.postman_collection.json)
+[Link to API project Postman Collection](API_project.postman_collection.json)
 
 ## 5.Conclusion:
 This script was written in Python to get an understanding of APIs with Python. By employing FastAPI it showcases how to build a beginner-friendly API project with essential CRUD operations for managing customer and invoice data. The inclusion of Postman testing allowed me to gain hands on exploration and validation of the API's functionalities. In conclusion, the project helped me to understand API development practically.

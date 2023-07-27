@@ -1,7 +1,7 @@
 # API-using-FASTAPI
 Creating API using FASTAPI and testing using POSTMAN
 
-# 1.Introduction & Goals
+# Introduction & Goals
 In this project goal is to create a simple customer and invoices API using FastAPI in Python and test the endpoints using POSTMAN.
 
 ## Table of Contents

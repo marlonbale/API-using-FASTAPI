@@ -9,9 +9,9 @@ In this project goal is to create a simple customer and invoices API using FastA
 2. [Project Overview](#Project-overview)
 3. [Dependencies and Tools](#Dependencies-and-tools)
 4. [Using Postman](#Using-Postman)
-6. [Conclusion](#conclusion)
+6. [Conclusion](#Conclusion)
 
-## 2.Project Overview
+## Project Overview
 The Python script creates a FastAPI application that serves as the backend for the API project. It functions for managing customers and invoices, providing endpoints to handle different types of requests. The main features of the project include:
 
 **Adding a Customer**: 
@@ -23,17 +23,17 @@ The API allows users to add new customers to the system by sending a POST reques
 
 **Getting All Invoices for a Customer**: Users can fetch all invoices associated with a specific customer by sending a GET request to the /invoices/{customer_id} endpoint, where {customer_id} is the unique identifier of the customer.
 
-## 3.Dependencies and Tools:
+## Dependencies and Tools:
 
 - FastAPI: Framework for building APIs with Python. It simplifies the process of defining API routes and data models.
 - Pydantic: Python library used to define data models for customer and invoice entities.
 - PostMan: Testing tool
 
-## 4.Using Postman:
+## Using Postman:
 
 [Link to API project Postman Collection](API_project.postman_collection.json)
 
-## 5.Conclusion:
+## Conclusion:
 This script was written in Python to get an understanding of APIs with Python. By employing FastAPI it showcases how to build a beginner-friendly API project with essential CRUD operations for managing customer and invoice data. The inclusion of Postman testing allowed me to gain hands on exploration and validation of the API's functionalities. In conclusion, the project helped me to understand API development practically.
 
 
